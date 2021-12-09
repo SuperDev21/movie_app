@@ -1,0 +1,64 @@
+.container{
+    max-width: 1300px;
+    margin: 0 auto;
+    background-color: #292d31;
+}
+
+.containerCard{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; 
+    justify-content: center; 
+    padding-top: 2%;
+}
+.cardImg{
+    width: 200px;
+    margin-bottom: auto;
+}
+.cardImg>img{
+    width: 100%;
+    height: 300px;
+}
+
+#file{
+    width: 9em !important;
+}
+.cardMovie{
+    width: 200px;
+    background-color: #d1cfd4;
+    margin: 3%;
+   
+}
+.cardMovie>.headerCard{
+    background-color: #d1cfd4;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    /* color: cornsilk; */
+    text-align: center;
+}
+.cardFooter{
+    padding: 2% 3%;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.spanIcon:hover{
+   cursor: pointer;
+}
+.fa {
+    font-size: 20px;
+    cursor: pointer;
+    user-select: none;
+  }
+  
+  .fa:hover {
+    color: rgb(30, 4, 124);
+  }
+
+@media (max-width: 550px){
+    .hedenDiv{
+        display: none;
+    }
+
+}

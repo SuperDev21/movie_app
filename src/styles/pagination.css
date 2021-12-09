@@ -1,0 +1,9 @@
+.navPagination{
+    width: 25% !important;
+}
+.buttumPagination{
+    color: black!important;
+}
+.buttumPagination:hover{
+    cursor: pointer !important;
+}
