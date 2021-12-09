@@ -2,11 +2,7 @@
 
 Une application qui affiche une liste de films sous forme de cartes.\
 Les données sont récupérées à partir d'un fichier local `movies.js`.\
-
-Développée en 2 jours dans un cadre de test technique pour une recherche de stage \
-chez Particeep (<https://www.particeep.com/fr>)
-
-Par NAWAL BENGHINA (expèrience de 1 mois en ReactJs)
+Visualiser le projet dans ce lien `` https://mymovies-application.netlify.app/ ``
 
 ## Langages et outils
 
